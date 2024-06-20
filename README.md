@@ -1,3 +1,5 @@
+Anas Khelifa - 300257055
+
 # Wordle game
 To play simply start guessing words
 Click letters to write words
