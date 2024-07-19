@@ -156,3 +156,23 @@ h1 {
 .close-popup:hover {
     background-color: #00cc00;
 }
+
+.leaderboard {
+    margin-top: 20px;
+    color: #00ff00;
+}
+
+.leaderboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.leaderboard th, .leaderboard td {
+    border: 1px solid #00ff00;
+    padding: 8px;
+    text-align: center;
+}
+
+.leaderboard th {
+    background-color: #333333;
+}
